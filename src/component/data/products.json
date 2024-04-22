@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Deodorant Spray",
+      "image": "https://id-test-11.slatic.net/p/3fcaa6931fdb9a9a1327b9e8c61605a2.png",
+      "price": 125000
+    },
+    {
+      "id": 2,
+      "name": "Acne Toner Premium",
+      "image": "https://id-test-11.slatic.net/p/0b7a70c6732bd0d789b5c95a634a376d.png",
+      "price": 125000
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "image": "https://sr12herbalskincare.co.id/minio/websr12/1698981029623.jpg",
+      "price": 39.99
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "image": "https://sr12herbalskincare.co.id/minio/websr12/1698981029623.jpg",
+      "price": 49.99
+    }
+  ]
+  

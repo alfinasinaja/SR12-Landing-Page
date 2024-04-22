@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.dark body {
+  background-color: #1a202c;
+  color: #cbd5e0;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css (atau nama file CSS sesuai kebutuhan) */
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 16px;
+  width: 16px;
+  left: 2px;
+  bottom: 2px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(20px);
+  -ms-transform: translateX(20px);
+  transform: translateX(20px);
+}
+
+.slider.round {
+  border-radius: 20px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+
+
+/* Untuk tampilan menu di perangkat seluler */
+.menu-container {
+  position: absolute;
+  top: 16px;
+  right: 4px;
+  background-color: #4a5568;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transform-origin: top right;
+  transform: scale(0);
+  transition: transform 0.3s;
+}
+
+.menu-container.active {
+  transform: scale(1);
+}
+
+.menu-link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.menu-link:hover {
+  text-decoration: underline;
+}
+
+/* Untuk tombol Dark Mode di dalam menu */
+.dark-mode-toggle {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.dark-mode-toggle label {
+  margin-right: 8px;
+}
+
+/* Untuk tautan pada tampilan desktop */
+.lg\:flex {
+  display: flex;
+}

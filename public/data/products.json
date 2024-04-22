@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Manja SR12 Pil",
+      "price": 126000,
+      "category": "Herbal",
+      "image": "https://sr12herbalskincare.co.id/minio/websr12/1699176329525.jpg",
+      "slug": "manja-sr12-pil",
+      "BPOM" :"(90)TR183311811(91)280215",
+      "detail": "Buah Manjakani atau Quercus infectoria adalah tanaman obat yang banyak dijual dipasaran. Salah satu manfaat buah manjakani yang paling populer adalah untuk kesehatan pada organ reproduksi perempuan. Manjakani sering digunakan untuk membersihkan serta mengatasi infeksi jamur dan bakteri di organ intim wanita. Manjakani juga dapat mengencangkan atau merapatkan vagina. Pemakaian Majakani ini tergantung kebutuhan, karena area dan kondisi Vagina setiap orang berbeda-beda sesuai hormon dari orang tersebut. "
+    },
+    {
+      "id": 2,
+      "name": "Suncare Lotion",
+      "price": 55500,
+      "category": "Acne Series",
+      "image": "https://sr12herbalskincare.co.id/minio/websr12/1698998785524.jpg",
+      "slug": "suncare-lotion",
+      "detail": "Beraktivitas di siang hari dan bertemu matahari terik tidak dapat kita hindari, Sun Care Lotion dapat membantu mencegah & melindungi kulit dari pengaruh buruk sinar matahari serta menjaga kelembapan kulit.",
+      "BPOM" : "(90)NA18211700396(91)250919",
+      "kegunaan" : "Oleskan suncare lotion setelah penggunaan day cream. Gunakan suncare lotion 10 menit sebelum keluar rumah pada pagi atau siang hari, ulangi penggunaan sunblock setiap 2-3 jam sekali.",
+      "ingredients" : "Aqua, Niacinamide, Glycerin, Glycerul Stearate, Octyl methoxycinnamate, Propylene Glycol, dicaprylyl carbonate, cetyl alcohol, Phenocyethanol, Ceteareth-20, Sodium Polyacrylate, Ceteareth-12, Cetearyl Alcohol, Cetyl Palmitate, isononyl Isononanoate, Disoidum EDTA, Allantoin, BHT, Polyhydroxystearic Acid, triethoxycaprylylsilane, Silica, Aluminum Hydroxide, Tocopheryl Acetate, CI 77891."
+
+    },
+    {
+      "id": 3,
+      "name": "Milk Cleanser Tube",
+      "price": 70500,
+      "category": "Acne Series",
+      "image": "https://sr12herbalskincare.co.id/minio/websr12/1698995860571.jpg",
+      "slug": "milk-cleanser-tube",
+      "BPOM": "(90)NA18201200127(91)250919",
+      "detail": "Cleanser wajah serupa susu yang dapat membantu membersihkan sisa makeup di wajah. Dapat digunakan sebagai pembersih wajah sebelum tidur, membantu melembapkan kulit wajah, membantu meregenerasi sel agar berjalan dengan baik dimalam hari. Dengan kandungan Vitamin E dan Ekstrak Lidah Buaya."
+
+    },
+    {
+      "id": 4,
+      "name": "Facial Foam Glutation",
+      "price": 58500,
+      "category": "Face Wash",
+      "image": "https://sr12herbalskincare.co.id/minio/websr12/1699002163625.jpg",
+      "slug": "facial-foam-glutation",
+      "BPOM" : "(90)NA18211209194(91)250919",
+      "detail": "ini untuk detail produk"
+
+    },
+    {
+        "id": 5,
+        "name": "Sari Kurma SR12",
+        "price": 63000,
+        "category": "Herbal",
+        "image": "https://sr12herbalskincare.co.id/minio/websr12/1699176722371.jpg",
+        "slug": "sari-kurma-sr12",
+        "detail": "Sari Kurma yang diolah dari buah kurma pilihan untuk menjaga manfaat dari buah kurma dibuat dalam kemasan yang kaya akan manfaat untuk kesehatan tubuh dan sajian tepat untuk keluarga Anda dengan kandungan murni sari buah kurma sampai 95%."
+  
+      }
+    
+  ]
+  
